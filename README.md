@@ -46,4 +46,3 @@ This solution addresses the problem of parking spot detection by reducing the am
 
 ---
 
-Feel free to copy this into your GitHub README file. You may also want to add sections for installation, usage, contributions, and license if needed.
