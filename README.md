@@ -1,1 +1,4 @@
 # Real-Time-Parking-Space-Availability
+Nowadays, finding a parking spot in urban cities is becoming increasingly difficult as the number of cars continues to rise. To alleviate rush hour traffic in parking spaces, an effective car parking occupancy monitoring system is necessary. This project offers a system that determines if a parking place is filled or not using aerial photos taken by a camera. The system employs computer vision and fundamental image processing techniques.
+
+This solution addresses the problem of parking spot detection by reducing the amount of time spent exploring parking lots, which in turn lowers carbon emissions and improves quality of life. Unlike current solutions that rely on hardware devices, sensors, the Internet of Things (IoT), the CNN network, and multiple deep learning algorithms, the proposed solution eliminates this complexity and significantly reduces costs.
