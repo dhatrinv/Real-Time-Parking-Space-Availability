@@ -1,9 +1,5 @@
 # Real-Time-Parking-Space-Availability
-Here's a reformatted version suitable for a GitHub README:
 
----
-
-# Smart Parking System using Image Processing
 
 ## Overview
 
